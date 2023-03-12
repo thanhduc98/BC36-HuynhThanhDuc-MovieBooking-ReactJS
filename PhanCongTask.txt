@@ -19,6 +19,6 @@
         +UserAdd.jsx     : thêm người dùng
         +UserEdit.jsx    : chỉnh sửa thông tin người dùng
         
-LINK GITHUB: 
-LINK DELOY: 
+LINK GITHUB: https://github.com/thanhduc98/BC36-HuynhThanhDuc-MovieBooking-ReactJS.git
+LINK DELOY: https://bc-36-huynh-thanh-duc-movie-booking-react-js.vercel.app/
 LINK DEMO:https://youtu.be/gW59aZ-h1kI
